@@ -51,6 +51,7 @@ Upcoming meetups
 * [Wellington Meetup](https://www.meetup.com/clickhouse-wellington-user-group/events/305666164/) - Feb 20, 2025
 * [Los Angeles Meetup (with DevOpsDays)](https://www.meetup.com/clickhouse-los-angeles-user-group/events/305952193) - Feb 20, 2025
 * [Singapore Meetup](https://www.meetup.com/clickhouse-singapore-meetup-group/events/305917892/) - Feb 25, 2025
+* [Shanghai Meetup](https://www.huodongxing.com/event/3794544969111?td=3894807410019) - March 1, 2025
 * [Seattle Meetup](https://www.meetup.com/clickhouse-seattle-user-group/events/305916325) - March 5, 2025
 * [San Francisco Meetup](https://www.meetup.com/clickhouse-silicon-valley-meetup-group/events/306046697) - March 19, 2025
 * [Boston Meetup](https://www.meetup.com/clickhouse-boston-user-group/events/305882607) - March 25, 2025
