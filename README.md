@@ -50,6 +50,7 @@ Upcoming meetups
 * [Bangalore Meetup](https://www.meetup.com/clickhouse-bangalore-user-group/events/308323519/) - June 27, 2025
 * [ClickHouse + Docker AI Night](https://lu.ma/g9nhgnlh) - July 1st 2025
 * [Perth Meetup](https://www.meetup.com/clickhouse-perth-user-group/events/308421971/) - July 2, 2025
+* [Hangzhou Meetup](https://mp.weixin.qq.com/s/2imVutaw82qyTsF1OQT22g) - July 5, 2025
 * [Atlanta Meetup](https://www.meetup.com/clickhouse-atlanta-meetup-group/events/307627590/) - July 8, 2025
 * [Philadelphia Meetup](https://www.meetup.com/clickhouse-philadelphia-user-group/events/308333554/) - July 10, 2025
 * [Los Gatos Meetup](https://www.meetup.com/clickhouse-silicon-valley-meetup-group/events/308546075) - July 10, 2025
