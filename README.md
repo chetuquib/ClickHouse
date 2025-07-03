@@ -53,8 +53,9 @@ Upcoming meetups
 * [Atlanta Meetup](https://www.meetup.com/clickhouse-atlanta-meetup-group/events/307627590/) - July 8, 2025
 * [Philadelphia Meetup](https://www.meetup.com/clickhouse-philadelphia-user-group/events/308333554/) - July 10, 2025
 * [Los Gatos Meetup](https://www.meetup.com/clickhouse-silicon-valley-meetup-group/events/308546075) - July 10, 2025
+* [Mumbai Meetup](https://www.meetup.com/clickhouse-mumbai-user-group/events/308558476/) - July 12, 2025
 * [New York Meetup](https://www.meetup.com/clickhouse-new-york-user-group/events/307627675/) - July 15, 2025
-
+* [Hong Kong Meetup](https://www.meetup.com/clickhouse-hong-kong-meetup-group/events/308568412/) - July 17, 2025
 
 Recent meetups
 * [Amsterdam Meetup](https://www.meetup.com/clickhouse-netherlands-user-group/events/308053051/) - June 25, 2025
